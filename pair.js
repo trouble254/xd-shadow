@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by ArslanMD Official*
+*_Pair Code Connected by  †💖R🍥Ö💦Ú🔱ß🍷L🥺È Official*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN Arslan-XD 』*
+║ *『 WOW YOU'VE CHOSEN SHADOW-XMD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@arslanmdofficial
+║❒ *Ytube:* _youtube.com/@trouble254
 ║❒ *Owner:* _https://wa.me/254742215053
-║❒ *Repo:* _https://github.com/Arslan-MD/Arslan-XD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306
-║❒ *Plugins:* _https://github.com/Arslan-MD/Arslan-XD_
+║❒ *Repo:* _https://github.com/trouble254/shadow-XMD
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029VbBM1Kw8kyyFKORNQv1q
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbBM1Kw8kyyFKORNQv1q
+║❒ *Plugins:* _https://github.com/trouble254/shadow-XMD
 ╚════════════════════════╝
 _____________________________________
 
